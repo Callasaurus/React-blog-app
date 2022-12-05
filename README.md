@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/112335053/205614177-041280f7-12ae-40d4
   git clone https://github.com/Callasaurus/React-blog-app.git
 ```
 
-# How to run the front end:
+# How to run the app:
 
 ```bash
   cd React-blog-app/src 
