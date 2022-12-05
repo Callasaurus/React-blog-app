@@ -6,7 +6,7 @@ export const comments = [
     },
     {
       id: "jFyGAKz1VsGputO1gV8xa",
-      author: "Chris Meah",
-      content: "Many thank yous",
+      author: "Bob Bootcamp",
+      content: "This is the most original app I've ever seen!",
     },
   ];
