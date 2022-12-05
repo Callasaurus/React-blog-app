@@ -14,13 +14,13 @@ Tools and languages:
 https://user-images.githubusercontent.com/112335053/205614177-041280f7-12ae-40d4-b324-5574211c877f.mp4
 
 ```bash
-  git clone x
+  git clone https://github.com/Callasaurus/React-blog-app.git
 ```
 
 # How to run the front end:
 
 ```bash
-  cd x
+  cd React-blog-app/src 
 ```
 
 Install dependencies
