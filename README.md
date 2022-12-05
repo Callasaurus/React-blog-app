@@ -1,6 +1,6 @@
 # React Blog Application
 
-Do you like cocktails? Have you always though about trying new ones but end up sticking to the one you know? Well, this is the app for you! This react app works with a cocktail API and fetches you random cocktails, their ingredients and their recipes for inspiration (https://thecocktaildb.com/). You can: fetch as many cocktails as you like; delete them if they don't catch your fancy; add them to your favourites list. Happy drinking! (p.s. please drink responsibly)
+What's more original than creating a blog app, right? This blog application was made after my first week of learning React. It was great for a bit of practice and for cementing my understanding of React concepts like props and useState. Feel free to run the app, read the blog post and leave a friendly comment. Or don't. It's up to you. 
 
 ## Skills
 
